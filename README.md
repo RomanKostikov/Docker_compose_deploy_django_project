@@ -6,7 +6,7 @@ application's business logic, skipping all the complex deployment issues at an e
 
 ## See in Action
 Deploying a Django Project in Production with Automatic Let's Encrypt HTTPS in Just 21 Seconds... 🏎️💨 ...🏁
-![Docker_compose_deploy_django_project](https://drive.google.com/file/d/1Hh-oNp2J6Pen-sau61DiiRsb-uGiCjYb/view?usp=sharing)
+https://drive.google.com/file/d/1Hh-oNp2J6Pen-sau61DiiRsb-uGiCjYb/view?usp=sharing
 
 
 ## Technology stack
